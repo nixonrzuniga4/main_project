@@ -1,0 +1,129 @@
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:1:hi.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:1:hi is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:1:hi.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:3:hiii.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:3:hiii is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:3:hiii.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:5:randomize_list empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:5:randomize_list empty list is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:5:randomize_list empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:7:randomize_list repeated elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:7:randomize_list repeated elements is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:7:randomize_list repeated elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:9:randomize_list preserve elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:9:randomize_list preserve elements is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:9:randomize_list preserve elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:11:tokenize_sentence simple case.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:11:tokenize_sentence simple case is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:11:tokenize_sentence simple case.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:13:tokenize_sentence multiple punctuation.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:13:tokenize_sentence multiple punctuation is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:13:tokenize_sentence multiple punctuation.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:16:tokenize_sentence empty sentence.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:16:tokenize_sentence empty sentence is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:16:tokenize_sentence empty sentence.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:17:tokenize_nested_list simple case.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:17:tokenize_nested_list simple case is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:17:tokenize_nested_list simple case.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:19:tokenize_nested_list consecutive punctuation.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:19:tokenize_nested_list consecutive punctuation is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:19:tokenize_nested_list consecutive punctuation.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:21:tokenize_nested_list complex sentences.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:21:tokenize_nested_list complex sentences is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:21:tokenize_nested_list complex sentences.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:23:randomize_nested_list element presence.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:23:randomize_nested_list element presence is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:23:randomize_nested_list element presence.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:24:randomize_nested_list different lengths.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:24:randomize_nested_list different lengths is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:24:randomize_nested_list different lengths.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:25:randomize_nested_list single element lists.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:25:randomize_nested_list single element lists is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:25:randomize_nested_list single element lists.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:26:randomize_nested_list empty inner lists.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:26:randomize_nested_list empty inner lists is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:26:randomize_nested_list empty inner lists.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:28:randomize_nested_list some repeated elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:28:randomize_nested_list some repeated elements is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:28:randomize_nested_list some repeated elements.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:31:count_word_frequencies multiple words.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:31:count_word_frequencies multiple words is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:31:count_word_frequencies multiple words.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:33:build_vocabulary empty.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:33:build_vocabulary empty is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:33:build_vocabulary empty.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:35:build_vocabulary with duplicates.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:35:build_vocabulary with duplicates is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:35:build_vocabulary with duplicates.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:37:build_vocabulary mixed duplicates and uniques.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:37:build_vocabulary mixed duplicates and uniques is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:37:build_vocabulary mixed duplicates and uniques.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:39:one_hot_encode basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:39:one_hot_encode basic is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:39:one_hot_encode basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:41:one_hot_encode last element in small array.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:41:one_hot_encode last element in small array is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:41:one_hot_encode last element in small array.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:43:one_hot_encode single element array.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:43:one_hot_encode single element array is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:43:one_hot_encode single element array.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:45:padding_token for vocab size 1.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:45:padding_token for vocab size 1 is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:45:padding_token for vocab size 1.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:47:padding_token for vocab size 10.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:47:padding_token for vocab size 10 is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:47:padding_token for vocab size 10.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:49:padding_token for arbitrary vocab size.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:49:padding_token for arbitrary vocab size is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:49:padding_token for arbitrary vocab size.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:51:take more than list length.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:51:take more than list length is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:51:take more than list length.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:53:take from empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:53:take from empty list is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:53:take from empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:56:create_batches basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:56:create_batches basic is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:56:create_batches basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:57:create_batches single element per batch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:57:create_batches single element per batch is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:57:create_batches single element per batch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:59:create_batches empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:59:create_batches empty list is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:59:create_batches empty list.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:61:create_batches uneven last batch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:61:create_batches uneven last batch is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:61:create_batches uneven last batch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:63:percentile different percentile.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:63:percentile different percentile is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:63:percentile different percentile.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:65:percentile repeated values.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:65:percentile repeated values is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:65:percentile repeated values.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:67:percentile 0th percentile.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:67:percentile 0th percentile is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:67:percentile 0th percentile.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:70:create_vector size 0.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:70:create_vector size 0 is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:70:create_vector size 0.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:71:create_vector negative size.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:71:create_vector negative size is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:71:create_vector negative size.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:74:vocab_size non-empty.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:74:vocab_size non-empty is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:74:vocab_size non-empty.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:75:vocab_size large vocabulary.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:75:vocab_size large vocabulary is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:75:vocab_size large vocabulary.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:78:vocab_size all keys no values.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:78:vocab_size all keys no values is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:78:vocab_size all keys no values.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:79:learning_rate_decay basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:79:learning_rate_decay basic is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:79:learning_rate_decay basic.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:81:learning_rate_decay last epoch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:81:learning_rate_decay last epoch is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:81:learning_rate_decay last epoch.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Start test test_suite:83:learning_rate_decay max epochs 1.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: Test test_suite:83:learning_rate_decay max epochs 1 is successful.
+2023-12-08T01:49:00+00:00 dhcp-vl2041-35146.eduroam.cornell.edu#02 I: End test test_suite:83:learning_rate_decay max epochs 1.
